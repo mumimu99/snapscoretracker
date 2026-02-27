@@ -294,3 +294,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    python3 main.py -u ibr.mahj -s 50000
